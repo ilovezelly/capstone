@@ -1,0 +1,26 @@
+.loginPage{
+    background-image: url(media/bg.jpeg);
+    background: linear-gradient(rgb(6, 6, 209),black, url(media/bg.jpeg));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm{
+    background-color: rgb(10, 10, 69);
+    color: rgb(80, 248, 97);
+}
+.button {
+    background-color: #004aad;
+    color: white;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 1.2em;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #c1ff72;
+  }
